@@ -1,3 +1,4 @@
 # kevinyan.github.io
 
-[yanwenkai.cn](http://www.yanwenkai.cn)
+* [我的站点](slist.sinaapp.com)
+* [yanwenkai.cn](http://www.yanwenkai.cn)
